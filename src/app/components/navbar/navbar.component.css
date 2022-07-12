@@ -1,0 +1,25 @@
+.nav-container { 
+    height: 10vh;
+    width: 90vw;
+    border: 1px solid red;
+    margin: 5vw;
+    padding: 1.5vw;
+    border-radius: 10px;
+}
+
+.nav-intro {
+    float: right;
+    background: transparent;
+    border: none;
+    text-decoration: underline;
+    text-decoration-color: #0a0af3;
+    color: blue;
+}
+
+.nav-home {
+    background: transparent;
+    border: none;
+    text-decoration: underline;
+    text-decoration-color: #0a0af3;
+    color: blue;
+}

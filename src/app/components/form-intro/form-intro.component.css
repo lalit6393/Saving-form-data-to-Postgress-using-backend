@@ -1,0 +1,45 @@
+.main-container {
+  border: 1px solid green;
+  padding: 2vw;
+  margin: 5vh 7vw;
+  border-radius: 10px;
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+  padding: 2vw;
+  font-family: roboto;
+  font-size: 30px;
+}
+
+.form-div {
+  padding: 0.5vw;
+}
+
+.label-field {
+  width: 15vw;
+}
+
+.submit-button {
+  margin-left: 20vw;
+  margin-bottom: 3vh;
+  margin-top: 2vh;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.user-table {
+  height: 58vh;
+  overflow: auto;
+}
+
+.intro-box {
+  display: flex;
+}
+
+.user-input {
+  width: 80vw;
+}
